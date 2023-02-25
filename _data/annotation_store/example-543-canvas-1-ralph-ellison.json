@@ -1,0 +1,188 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-ralph-ellison.json",
+  "type": "AnnotationPage",
+  "label": "Ralph Ellison",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-ralph-ellison-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I'm afraid I'm in very much the same position. I would say this, that I rather agree with Mr. Hyman that despite our intentions, the novelist does perform a moral role. And the imagination is moral simply because it creates value.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-ralph-ellison-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now, you can find in this ethics. You can find in it many other things. But it's implicit, and any form which is so obsessed with time, change, and the mysteries of society-- of course, of human experience.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "940"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-ralph-ellison-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I see no way of avoiding the fact that in the very business of selection and ordering, of giving a form of pattern, we do perform a moral operation-- not necessarily in the religious ethical sense, but it's a matter of choice. It's a matter of accepting and rejecting certain aspects of a given experience.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "959"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-ralph-ellison-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Incidentally, the novel always looks backward. I guess that was said last night. It's concerned with what has been and through what has been. Through extracting the meaning of what has been, we create values of the day.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "991"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-ralph-ellison-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Now, the other thing, which I would say to enforce it, is that the novel means to communicate. It is first of all a medium of communication. I don't care if it's restricted to a small group of existentialists-- you name it. There must be a shared experience in between the process of the novel-- the process which is a novel and the audience which received.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ralph Ellison",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1007"
+        }
+      }
+    }
+  ]
+}

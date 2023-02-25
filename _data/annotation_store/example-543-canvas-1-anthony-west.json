@@ -1,0 +1,80 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-anthony-west.json",
+  "type": "AnnotationPage",
+  "label": "Anthony West",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-anthony-west-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I'd like to intrude something this, and that is that it seems to me that we're heading towards-- from one side to another-- that the pie in the sky will regenerate to the INAUDIBLE , that type of thing. In the world, there is both order and there is disorder, and it is our responsibility-- each man's responsibility, as well as the artist's responsibility-- to repair, to order, to proceed.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1563"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-anthony-west-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And the aesthetic experience is something that is above the disorder of the moment. And I think, therefore, that is an argument for the moral responsibility of the writer.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony West",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1595"
+        }
+      }
+    }
+  ]
+}

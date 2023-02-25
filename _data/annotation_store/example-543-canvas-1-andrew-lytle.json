@@ -1,0 +1,332 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-andrew-lytle.json",
+  "type": "AnnotationPage",
+  "label": "Andrew Lytle",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I would say, why not just use imagination makes images? That said, in this instance, I would think that the beginning of criticism is that which the writer himself uses when he steps back and looks at his work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "270"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And I would say that any kind of dramatic treatment of fiction-- that is, where the fiction is dramatic rather than the memoir type of novel-- that if you have some such image at the post as a kind of a controlling factor-- as I think War and Peace, for example, has and many others-- that you get out of this ambiguity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "292"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " By moral, of course, it is an aesthetic point. But it seems to me the mere fact of an image-- that is, an imagination makes pictures and images, and that is controlled through some dramatic action. And I believe-- I mean, I'm objecting also in terms of that to the word organization. I don't believe that's the way it grows.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "317"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " I think it is a kind of growth that's controlled, that you use a craft, which is a concrete thing upon the invisible content of the mind. So some way in there, you get the creative act that nobody quite knows how it's done. It is finely mysterious. And it seems to me that in a matter of organization, the moment you organize a thing, you kill it, moment.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "336"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " And so that is not actually the process. I know I've been speaking about two different things here. Since it is a general discussion, I propose then that you use just for imagination since it seems to me that is a thing that the artist himself uses directly. And by controlling it by craft, he reaches or may reach what he sets out to reach. But by organization, you will kill the creative act.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "360"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " Just a moment here, and then I won't get up any more. I believe I said that you put the image, which might be a symbol, even, at the post of observation. I must say that here I defend not the formless, but those people who use form. Formalism and the formalist-- again, I don't want to be quibbling-- but not quite the word.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "558"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But if you do Suppose you do take a position. Well, don't you get a dichotomy there? That is, if you look only into your own imagination, into yourself, your ego, you get a narcissistic kind of thing. And if you look only over here into the world, you get lost into the discrete objects of the world.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "580"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But if you get kind of an insight into yourself and insight into the world and focus that all through this image here, this controlling image at the point of view, then the matter of the moral issue will be behind in your mind. That's what I'm at. I didn't mean to defend immorality here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "599"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "example-543-canvas-1-andrew-lytle-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " But that's the kind of thing I mean. It seems to me that is a sort of function that the artist may undertake. In other words, I'm saying the thing of organization-- to come to the other part-- is that it superimposes on the raw matter of the subject before you really know what it is, before you've dealt with it enough, a kind of arbitrary ordering, which might inhibit the creative act.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrew Lytle",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://trentwintermeier.github.io/veraprojecttest/example-543/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "617"
+        }
+      }
+    }
+  ]
+}
