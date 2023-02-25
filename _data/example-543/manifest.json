@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-harold-humes.json",
-            "label": {
-              "none": ["Harold Humes"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-w-m--frohock.json",
             "label": {
               "none": ["W.M. Frohock"]
