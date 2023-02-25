@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/veraprojecttest/example/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "example" ] },
+    "homepage": [
+      {
+        "id": "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3",
+        "type": "Text",
+        "label": { "en": [ "example" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3",
+        "type": "Agent",
+        "label": { "en": [ "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/veraprojecttest/example/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1965.0,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/veraprojecttest/example/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/veraprojecttest/example/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1965.0
+                },
+                "target": "https://trentwintermeier.github.io/veraprojecttest/example/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
