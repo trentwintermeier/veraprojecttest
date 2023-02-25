@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-andrew-lytle.json",
-            "label": {
-              "none": ["Andrew Lytle"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-carver-collins.json",
             "label": {
               "none": ["Carver Collins"]
