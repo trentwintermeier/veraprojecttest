@@ -5,7 +5,7 @@
     "label": { "en": [ "example 543" ] },
     "homepage": [
       {
-        "id": "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3",
+        "id": "https://archive.org/",
         "type": "Text",
         "label": { "en": [ "example 543" ] },
         "format": "text/html"
@@ -13,9 +13,9 @@
     ],
     "provider": [
       {
-        "id": "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3",
+        "id": "https://archive.org/",
         "type": "Agent",
-        "label": { "en": [ "https://ia601601.us.archive.org/0/items/wopekrteopsf/tape%206%20test.mp3" ] }
+        "label": { "en": [ "https://archive.org/" ] }
       }
     ],
     "items": [
