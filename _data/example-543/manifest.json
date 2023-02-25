@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-ralph-ellison.json",
-            "label": {
-              "none": ["Ralph Ellison"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/veraprojecttest/annotations/example-543-canvas-1-anthony-west.json",
             "label": {
               "none": ["Anthony West"]
